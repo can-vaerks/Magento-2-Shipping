@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <carriers>
+            <postnord2custom>
+                <active>1</active>
+                <title>Post Nord 1-5kg</title>
+                <name>Post Nord 1-5kg Method</name>
+                <shipping_cost>10</shipping_cost>
+                <sallowspecific>0</sallowspecific>
+                <sort_order>15</sort_order>
+                <model>Vendor\PostNord2\Model\Carrier\Postnord2custom</model>
+            </postnord2custom>
+        </carriers>
+    </default>
+</config>
