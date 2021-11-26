@@ -6,7 +6,7 @@
                 <active>1</active>
                 <title>Post Nord 5-10kg</title>
                 <name>Post Nord 5-10kg Method</name>
-                <shipping_cost>10</shipping_cost>
+                <shipping_cost>101.25</shipping_cost>
                 <sallowspecific>0</sallowspecific>
                 <sort_order>15</sort_order>
                 <model>Vendor\PostNord3\Model\Carrier\Postnord3custom</model>

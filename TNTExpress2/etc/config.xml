@@ -6,7 +6,7 @@
                 <active>1</active>
                 <title>TNT Express before 12:00</title>
                 <name>TNT Express before 12:00 Method</name>
-                <shipping_cost>10</shipping_cost>
+                <shipping_cost>500</shipping_cost>
                 <sallowspecific>0</sallowspecific>
                 <sort_order>15</sort_order>
                 <model>Vendor\TNTExpress2\Model\Carrier\TNT2custom</model>
